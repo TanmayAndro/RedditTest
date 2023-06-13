@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RedditTest</string>
+    <string name="title">Title</string>
+    <string name="imagebutton">ImageButton</string>
+    <string name="image">Image</string>
+    <string name="top_comments">Top Comments</string>
+    <string name="name">Name</string>
+    <string name="comment">Comment</string>
+    <string name="try_economy_india_education">Try \'economy\', \'India\', \'education\'</string>
+    <string name="app_logo">App Logo</string>
+    <string name="search_button">Search Button</string>
+    <string name="valid_input_msg">Please give a valid Input</string>
+    <string name="nothing_found">No content Found For this keyword</string>
+    <string name="loading">"Loading "</string>
+    <string name="some_error">Some Error came from Network</string>
+    <string name="no_comments_found">No comments Found</string>
+    <string name="usa">USA</string>
+</resources>

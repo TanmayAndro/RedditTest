@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="imagebutton">ImageButton</string>
+    <string name="image">Image</string>
+    <string name="loading">"Loading "</string>
+    <string name="some_error">Some Error came from Network</string>
+    <string name="no_comments_found">No comments Found</string>
+    <string name="usa">USA</string>
+</resources>
